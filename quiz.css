@@ -35,6 +35,14 @@ img{
     background: rgba(105,224,90,0.55);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.m_text {
+    text-align: justify;
+    padding: 0 0 0.3rem 0;
+    font-size: 1rem;
+    color: rgb(49,70,7);
+    background: rgba(105,224,90,0.55);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 .questions{
     margin: 3rem auto;
     width: 90vw;

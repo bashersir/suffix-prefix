@@ -42,6 +42,9 @@ img{
     color: rgb(49,70,7);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+span{
+    display: inline!important;
+}
 .questions{
     margin: 3rem auto;
     width: 90vw;

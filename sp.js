@@ -6,6 +6,24 @@ function myFunction() {
       x.style.display = "none";
     }
   }
-  function test(){
+  function test1(){
     alert("mindful");
+  }
+  function test2(){
+    alert("respectful");
+  }
+  function test3(){
+    alert("teachers");
+  }
+  function test4(){
+    alert("dishonour");
+  }
+  function test5(){
+    alert("misconduct");
+  }
+  function test6(){
+    alert("insincere");
+  }
+  function test7(){
+    alert("punctuality");
   }

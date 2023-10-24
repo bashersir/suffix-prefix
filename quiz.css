@@ -45,6 +45,9 @@ img{
 span{
     display: inline!important;
 }
+.pointer {
+    cursor: pointer;
+}
 .questions{
     margin: 3rem auto;
     width: 90vw;

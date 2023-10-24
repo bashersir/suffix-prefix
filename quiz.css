@@ -59,6 +59,10 @@ span{
 #question{
     margin-bottom: 1rem;
 }
+.p_navigation{
+    text-align: center;
+    color: #d0ccc5;
+}
 .option{
     margin-bottom: 0.5rem;
     font-size: 1.2rem;

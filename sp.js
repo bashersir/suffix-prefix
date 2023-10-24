@@ -27,3 +27,25 @@ function myFunction() {
   function test7(){
     alert("punctuality");
   }
+  //Question 2
+  function qb1(){
+    alert("useful");
+  }
+  function qb2(){
+    alert("companion");
+  }
+  function qb3(){
+    alert("impossible");
+  }
+  function qb4(){
+    alert("natural");
+  }
+  function qb5(){
+    alert("strengthens");
+  }
+  function qb6(){
+    alert("imbalance");
+  }
+  function qb7(){
+    alert("happier");
+  }
